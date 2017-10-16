@@ -9,7 +9,7 @@ const Container = styled.div`
   flex-direction: column;
   margin: auto;
   text-align: center;
-  height: 100vh;
+  min-height: 100vh;
   padding: 10px;
   box-sizing: border-box;
   ul {
